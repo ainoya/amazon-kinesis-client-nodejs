@@ -1,3 +1,9 @@
+# Patched version
+
+- Updated to working with `WebIdentityTokenCredentialsProvider`
+  - Added `aws-java-sdk-sts` dependency to pom.xml.
+- Updated some libs for security fixes.
+
 # Amazon Kinesis Client Library for Node.js
 
 This package provides an interface to the [Amazon Kinesis Client Library][amazon-kcl] (KCL) [MultiLangDaemon][multi-lang-daemon] for the Node.js framework.
