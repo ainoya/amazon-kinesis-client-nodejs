@@ -7,7 +7,7 @@
         <netty.version>4.1.79.Final</netty.version>
         <netty-reactive.version>2.0.5</netty-reactive.version>
         <fasterxml-jackson.version>2.13.3</fasterxml-jackson.version>
-        <logback.version>1.2.10</logback.version>
+        <logback.version>1.2.11</logback.version>
     </properties>
     <dependencies>
         <dependency>
